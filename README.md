@@ -1,2 +1,2 @@
 # BLS-Portugal-RDV-Scheduler-2025
-Automate your BLS Portugal appointment scheduling in 2025! 🖥️✨ This script performs auto-login 🔑, fills in your details, and quickly selects available slots for faster bookings! ⏳📅 Save time and secure your appointment with ease!  This updated version reflects the new 2025 features, including auto-login and the speedier slot selection process, 
+Automate your BLS Portugal appointment scheduling in 2025! 🖥️✨ This script performs auto-login 🔑, fills in your details, and quickly selects available slots for faster bookings! ⏳📅 Save time and secure your appointment with ease!  This updated version reflects the new 2025 features, including auto-login and the speedier slot selection process, https://selar.com/u34545
